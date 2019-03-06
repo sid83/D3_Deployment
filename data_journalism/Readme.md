@@ -1,6 +1,9 @@
 # Interactive Plot built using D3.js
 
-we are studying the current trends shaping people's lives and presenting it in a interactive charts. So welcome to the newsroom!
+To visualize the demographic data, we will be creating interactive scatter plots (3 X-axes and 3 Y-axes). A web application built using python Flask web server. To run the flask server:
+* Download all files
+* Run the command: FLASK_APP=data_journalism/app.py flask run
+####
 ![Visual](Images/D3_DataJournalism.gif)
 
 ### Key Findings
